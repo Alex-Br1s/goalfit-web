@@ -110,7 +110,7 @@ function Section({
   return (
     <section
       style={{
-        backgroundColor: "#25242e",
+        backgroundColor: "#36353eff",
         padding: 20,
         borderRadius: 16,
         marginBottom: 20,

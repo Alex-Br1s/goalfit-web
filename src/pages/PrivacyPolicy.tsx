@@ -107,7 +107,7 @@ function Section({ title,content }: { title: string; content: React.ReactNode })
   return (
     <section
       style={{
-        backgroundColor: "#25242e",
+        backgroundColor: "#36353eff",
         padding: 20,
         borderRadius: 16,
         marginBottom: 20,
