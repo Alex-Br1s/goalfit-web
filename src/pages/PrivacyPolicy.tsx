@@ -16,13 +16,14 @@ export default function PrivacyPolicy() {
           marginBottom: 16,
           color: "#9CA3AF",
           fontSize: 14,
-          textDecoration: "none",
+          textDecoration: "underline",
           flexDirection: 'row',
           display: 'flex',
-          justifyContent: 'start'
+          justifyContent: 'start',
+
         }}
       >
-        ← Volver al inicio
+        Volver al inicio
       </Link>
       {/* Header */}
       <header style={{ display: "flex", alignItems: "center" }}>
